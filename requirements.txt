@@ -3,7 +3,7 @@ watermark
 transformers
 seaborn
 matplotlib
-sklearn
+scikit-learn
 keras-metrics
 textblob
 nltk
